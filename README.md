@@ -8,7 +8,7 @@
 
 ### Backend
 - [PHP - My Website Backend](https://github.com/jayIsThere/my_portfolio_java_parser): Backend logic implemented using PHP for dynamic content generation, including a Java-based XML parser.
-- [Spring Boot](https://github.com/jayIsThere/my_portfolio_spring) - My Website Spring Backend** *(To be updated)*: Backend API implemented using Spring Boot for scalable and RESTful API services.
+- [Spring Boot](https://github.com/jayIsThere/my_portfolio_spring) - My Website Spring Backend *(To be updated)*: Backend API implemented using Spring Boot for scalable and RESTful API services.
 
 ### Fullstack
 - **Spring Boot and React - My Fullstack Website** *(To be uploaded)*: A complete web application combining React on the frontend and Spring Boot on the backend, demonstrating fullstack development with RESTful API integration.
